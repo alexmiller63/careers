@@ -2,7 +2,7 @@
 
 ## Professional Summary
 
-Versatile professional with extensive experience spanning software quality assurance, software engineering, education, transportation, customer service, hospitality, web development, publishing, and seasonal entertainment. More than 15 years of experience in customer-facing positions, including rideshare and taxi driving, teaching, hospitality, theater operations, and seasonal work. Earlier technical experience includes software quality assurance, software engineering, and web content administration. Experienced in troubleshooting, testing, written communication, POS and payment systems, data entry, and working independently in rapidly changing environments.
+Versatile professional with experience spanning software quality assurance, software development, education, transportation, customer service, hospitality, web development, publishing, and seasonal entertainment. Earlier technical career includes software quality assurance and software development for commercial software products, including Lotus 1-2-3 Release 3, as well as cryptographic software design, implementation, and testing. Experienced in systematic testing, troubleshooting, defect analysis, test-tool development, written communication, POS and payment systems, data entry, and independent project development.
 
 ## Professional Experience
 
@@ -68,7 +68,7 @@ Versatile professional with extensive experience spanning software quality assur
 
 - Maintained an organized work area while handling multiple customer requests.
 
-### Website Designer — Pearlsam
+### Website Designer — PearlSam
 
 **Los Angeles, CA**  
 
@@ -82,7 +82,7 @@ Versatile professional with extensive experience spanning software quality assur
 
 - Worked independently on long-term web projects.
 
-### Author — *The Star Almanac*
+### Author — *The Star Almanack: A Field Guide to the Night Sky*
 
 **Los Angeles, CA**  
 
@@ -92,7 +92,7 @@ Versatile professional with extensive experience spanning software quality assur
 
 - Organizing scientific and astronomical information for publication.
 
-- Conducting independent research and technical writing.
+- Conducting independent astronomical research and technical writing.
 
 - Developing the work toward planned publication in 2028.
 
@@ -128,17 +128,93 @@ Versatile professional with extensive experience spanning software quality assur
 
 - Assisted customers and supported theater operations as needed.
 
-### 5th Grade Teacher
+### 5th Grade Teacher — Marblehead Community Charter Public School
 
-**Employer and dates to be recovered**
+**Marblehead, MA**  
 
-- Worked as a full-time 5th-grade classroom teacher.
+**One semester — dates to be recovered**
 
-- Planned and delivered instruction.
+- Served as the full-time classroom teacher for a 5th-grade class.
+
+- Planned and delivered instruction across the regular elementary curriculum.
 
 - Managed classroom activities and student behavior.
 
 - Evaluated student work and supported academic progress.
+
+### Substitute School Teacher — Boston Area
+
+**Greater Boston, MA**  
+
+**Dates to be recovered**
+
+- Served in a variety of substitute-teaching assignments in Boston-area schools.
+
+- Adapted to different classrooms, grade levels, school procedures, and student populations.
+
+- Followed classroom lesson plans and maintained continuity of instruction.
+
+- Managed classrooms and supported student learning.
+
+### Senior Quality Assurance Engineer — Notable Technologies
+
+**Location and dates to be recovered**
+
+- Performed software quality assurance for pen-enabled and pen-centric software applications.
+
+- Developed a bug-tracking database to organize and manage software defects.
+
+- Advocated for white-box testing methods and greater integration between software development and quality assurance in an environment primarily using over-the-wall black-box testing.
+
+### Software Quality Assurance — Slate Corporation
+
+**Location and dates to be recovered**
+
+- Performed software quality assurance for pen-centric technologies.
+
+- Tested software applications developed for pen-enabled computing environments.
+
+### Software Engineer, Quality Assurance — Charting — Lotus Development Corporation
+
+**Cambridge, MA**  
+
+**Dates to be recovered**
+
+- Served as one of four QA engineers responsible for the charting subsystem of Lotus 1-2-3 Release 3.
+
+- Tested the charting subsystem across its functionality, including numerical XY charts and boundary conditions.
+
+- Designed and developed the XY Star visual test tool to investigate serious failures involving XY data points outside defined chart boundaries.
+
+- Constructed 14 nested, mathematically generated star plots based on circular geometry, creating a parameterized visual test environment.
+
+- Enabled systematic scaling, translation, and rotation of the star plots by changing spreadsheet values, with visually predictable results for each transformation.
+
+- Provided developers with reproducible visual feedback that assisted in identifying and resolving the associated charting defects.
+
+- Selected by Lotus to travel from Massachusetts to California to demonstrate Lotus 1-2-3 Release 3 to customers, with the XY Star charts serving as a central part of the presentation.
+
+### Software Design, Development & Testing — Sturdy Software Incorporated
+
+**Location and dates to be recovered**
+
+- Collaboratively designed cryptographic algorithms for a working software encryption system.
+
+- Designed reversible transformation algorithms exhibiting strong avalanche behavior in both forward and inverse operations.
+
+- Developed a family of systematically related algorithm variants, internally termed “isomers.”
+
+- Personally wrote and tested every line of code in the working encryption implementation.
+
+- Developed reduced-scale 7-bit, 6-bit, and 5-bit implementations to validate algorithm behavior and make internal transformations more readily observable.
+
+- Used reduced-scale implementations to investigate boundary conditions and identify degradation at small parameter sizes.
+
+- Identified cyclic behavior in a 4-bit test implementation and experimentally demonstrated that a single-bit perturbation could break the cycle.
+
+- Applied systematic experimental testing to determine practical limits and characterize algorithm behavior.
+
+- Participated in the conceptual design and planning of the proposed SRT Error Control and SRT Data Compression product families.
 
 ### Web Content Administrator
 
@@ -150,29 +226,43 @@ Versatile professional with extensive experience spanning software quality assur
 
 - Worked with web-based publishing and content-management systems.
 
-### Software Quality Assurance Engineer
+## Current Technical & Independent Projects
 
-**Employer and dates to be recovered**
+### Acme Conscience, Inc.
 
-- Tested software functionality and identified defects.
+**Present**
 
-- Designed and executed systematic software tests.
+- Developing Acme Conscience, Inc. as a corporate home for software, research, publishing, and related intellectual projects.
 
-- Investigated unexpected software behavior and reproduced defects.
+- Organizing current and revived technical projects into specialized divisions and project families.
 
-- Documented findings for engineering teams.
+### Sturdy Software
 
-- Applied analytical troubleshooting to complex software problems.
+**Division of Acme Conscience, Inc. — in development**
 
-### Software Engineer
+- Reconstructing and extending earlier software research and development.
 
-**Employer and dates to be recovered**
+- Reviving work involving cryptography, data compression, and error-control technologies.
 
-- Developed and maintained software.
+- Applying modern development and documentation methods to earlier software designs.
 
-- Diagnosed technical problems and implemented solutions.
+### Sturdy Cryptography
 
-- Worked with software development and testing processes.
+**Current reconstruction project**
+
+- Reconstructing the earlier Sturdy Software cryptographic system from surviving design knowledge and technical principles.
+
+- Documenting the architecture, algorithms, terminology, and experimental behavior of the original system.
+
+- Reexamining the system using contemporary software-development and testing methods.
+
+### Elephant
+
+**Current software project**
+
+- Developing a software concept centered on persistent information retention, organization, and retrieval.
+
+- Exploring integration of structured notes, persistent information, and software-development workflows.
 
 ## Education
 
@@ -196,17 +286,41 @@ Versatile professional with extensive experience spanning software quality assur
 
 ## Skills
 
-- Customer service
-
 - Software quality assurance
 
 - Software testing
+
+- Test design
+
+- Test-tool development
+
+- Defect analysis
+
+- Bug tracking
+
+- White-box testing
+
+- Black-box testing
+
+- Boundary-condition testing
+
+- Regression testing
+
+- Software development
+
+- Algorithm design
+
+- Cryptographic software
 
 - Troubleshooting
 
 - Web design and administration
 
 - Technical writing
+
+- Independent research
+
+- Astronomy research
 
 - Data entry
 
@@ -224,6 +338,8 @@ Versatile professional with extensive experience spanning software quality assur
 
 - Credit-card payment processing
 
+- Customer service
+
 - Driving
 
 - Navigation
@@ -239,6 +355,4 @@ Versatile professional with extensive experience spanning software quality assur
 - Attention to detail
 
 - Classroom management
-
-- Independent research
 
