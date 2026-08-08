@@ -2,7 +2,7 @@
 
 ## Professional Summary
 
-Versatile professional with experience spanning software quality assurance, software development, education, transportation, customer service, hospitality, web development, publishing, and seasonal entertainment. Earlier technical career includes software quality assurance and software development for commercial software products, including Lotus 1-2-3 Release 3, as well as cryptographic software design, implementation, and testing. Experienced in systematic testing, troubleshooting, defect analysis, test-tool development, written communication, POS and payment systems, data entry, and independent project development.
+Versatile professional with experience spanning software quality assurance, software development, education, transportation, customer service, hospitality, web development, publishing, and live performance. Earlier technical career includes software quality assurance and software development for commercial software products, including Lotus 1-2-3 Release 3, as well as cryptographic software design, implementation, and testing. Experienced in systematic testing, troubleshooting, defect analysis, test-tool development, written communication, public interaction, POS and payment systems, data entry, and independent project development.
 
 ## Professional Experience
 
@@ -226,6 +226,30 @@ Versatile professional with experience spanning software quality assurance, soft
 
 - Worked with web-based publishing and content-management systems.
 
+### Performer — Pasta Al Dente, *Tony and Maria’s Italian Comedy Wedding*
+
+**Greater Boston and Cape Cod, MA**  
+
+**Approximately two years — exact dates to be recovered**
+
+- Performed a recurring scripted role in the interactive comedy production *Tony and Maria’s Italian Comedy Wedding*.
+
+- Portrayed an Italian priest using an exaggerated Italian accent as part of the character.
+
+- Performed approximately 12 shows per year, primarily on Cape Cod.
+
+- Delivered the role to live audiences with strong comedic response.
+
+### Performer — Renaissance Pleasure Faire
+
+**Massachusetts — dates to be recovered**
+
+- Portrayed Dr. Thomas Campion, the English physician, poet, and composer.
+
+- Remained in character while interacting directly with customers at the Faire.
+
+- Serenaded customers with Thomas Campion’s original works.
+
 ## Current Technical & Independent Projects
 
 ### Acme Conscience, Inc.
@@ -263,6 +287,60 @@ Versatile professional with experience spanning software quality assurance, soft
 - Developing a software concept centered on persistent information retention, organization, and retrieval.
 
 - Exploring integration of structured notes, persistent information, and software-development workflows.
+
+## Performance Experience
+
+### Opera
+
+- Masetto — *Don Giovanni*
+
+- Leporello — *Don Giovanni*
+
+- Papageno — *The Magic Flute*
+
+- Guglielmo — *Così fan tutte*
+
+- Figaro — *The Barber of Seville*
+
+- Figaro — *The Marriage of Figaro*
+
+- Chorus — *Dido and Aeneas*
+
+### Musical Theater
+
+- Scientist — *Li'l Abner*
+
+- Hines — *The Pajama Game*
+
+- Dancer — *My Fair Lady*
+
+- Ebenezer — *Scrooge*
+
+- Apostle — *Jesus Christ Superstar*
+
+### Choral & Vocal Experience
+
+- Ensemble Singer / Soloist — Westwind International Folk Ensemble, Oakland, CA
+
+- Oberlin College Choir
+
+- Oberlin College Musical Union
+
+- Troubadors
+
+- Newton North High School Choir
+
+- Informal vocal performances at piano bars, notably The Alley in Oakland, CA
+
+- Informal performances at various karaoke venues
+
+### Dance Experience
+
+- Céilí dancing — The Starry Plough, Berkeley, CA
+
+- Irish set dancing — The Burren, Somerville, MA
+
+- Contra dancing — Massachusetts and California
 
 ## Education
 
@@ -355,4 +433,20 @@ Versatile professional with experience spanning software quality assurance, soft
 - Attention to detail
 
 - Classroom management
+
+- Acting
+
+- Character performance
+
+- Singing
+
+- Choral singing
+
+- Musical theater
+
+- Opera
+
+- Dance
+
+- Live audience interaction
 
