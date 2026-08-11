@@ -96,3 +96,111 @@ Versatile professional with experience spanning software quality assurance, soft
 
 - Developing the work toward planned publication in 2028.
 
+### Substitute School Teacher — Teachers On Reserve
+
+**Los Angeles, CA**
+
+**2007 – 2014**
+
+- Managed classrooms and maintained an effective learning environment.
+
+- Followed lesson plans and instructional requirements for absent teachers.
+
+- Worked with students at different grade levels and in different subjects.
+
+- Adapted rapidly to unfamiliar classrooms, school procedures, and student populations.
+
+- Maintained classroom order while supporting student learning.
+
+### Crew Member — ArcLight Cinema
+
+**Los Angeles, CA**
+
+**June 2007 – June 2014**
+
+- Provided customer service in a fast-paced theater environment.
+
+- Accurately operated POS systems.
+
+- Sold concessions and movie tickets.
+
+- Greeted audiences and introduced films.
+
+- Assisted customers and supported theater operations as needed.
+
+### 5th Grade Teacher — Marblehead Community Charter Public School
+
+**Marblehead, MA**
+
+**One semester — dates to be recovered**
+
+- Served as the full-time classroom teacher for a 5th-grade class.
+
+- Planned and delivered instruction across the regular elementary curriculum.
+
+- Managed classroom activities and student behavior.
+
+- Evaluated student work and supported academic progress.
+
+### Substitute School Teacher — Boston Area
+
+**Greater Boston, MA**
+
+**Dates to be recovered**
+
+- Served in a variety of substitute-teaching assignments in Boston-area schools.
+
+- Adapted to different classrooms, grade levels, school procedures, and student populations.
+
+- Followed classroom lesson plans and maintained continuity of instruction.
+
+- Managed classrooms and supported student learning.
+
+### Intern — Internet Alfredo
+
+**San Francisco, CA**
+
+**Approximately 2 months — immediately after Visa; exact dates to be recovered**
+
+- Worked on dynamic website development using Server-Side Includes (SSI).
+
+- Explored using SSI to generate and assemble dynamic web content in ways analogous to functionality later commonly implemented through server-side scripting technologies such as PHP.
+
+- Developed Bannerclub.com as an independent project while interning at Internet Alfredo.
+
+- Designed Bannerclub.com to coordinate banner advertisements for clients.
+
+### Software Quality Assurance Contractor — Visa
+
+**Foster City, CA**
+
+**Approximately 3 months — exact dates to be recovered**
+
+- Tested Visa’s merchant-management system.
+
+- Examined the system’s SQL database as part of the testing effort.
+
+### Software Quality Assurance Contractor — Bank of America
+
+**Concord, CA**
+
+**Approximately 4 months — after Lynch, Marks & Associates; exact dates to be recovered**
+
+- Performed black-box testing of Bank of America’s merchant-management system.
+
+- Coordinated the systems-integration team into the testing effort.
+
+### Network Engineer — Lynch, Marks & Associates
+
+**Berkeley, CA**
+
+**Approximately 2 years — employed there in October 1996; exact dates to be recovered**
+
+- Hired as a network engineer and worked both from the Lynch, Marks & Associates office and on-site at client locations.
+
+- Set up workstation computers from a standard model and troubleshot computer and network problems for clients.
+
+- Worked with scripts in Microsoft Word and WordPerfect used by lawyers to generate pleadings, proofs of service, and other routine legal documents from contact information.
+
+- Developed a Lotus Notes application for a Lynch, Marks & Associates client to track telemarketing phone calls and follow-up activity.
+
