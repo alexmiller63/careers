@@ -204,3 +204,97 @@ Versatile professional with experience spanning software quality assurance, soft
 
 - Developed a Lotus Notes application for a Lynch, Marks & Associates client to track telemarketing phone calls and follow-up activity.
 
+### Senior Quality Assurance Engineer — Notable Technologies
+
+**Location and dates to be recovered**
+
+- Performed software quality assurance for pen-enabled and pen-centric software applications.
+
+- Developed a bug-tracking database to organize and manage software defects.
+
+- Advocated for white-box testing methods and greater integration between software development and quality assurance in an environment primarily using over-the-wall black-box testing.
+
+### Software Quality Assurance — Slate Corporation
+
+**Location and dates to be recovered**
+
+- Performed software quality assurance for pen-centric technologies.
+
+- Tested software applications developed for pen-enabled computing environments.
+
+### Software Engineer, Quality Assurance — Charting — Lotus Development Corporation
+
+**Cambridge, MA**
+
+**Dates to be recovered**
+
+- Served as one of four QA engineers responsible for the charting subsystem of Lotus 1-2-3 Release 3.
+
+- Tested the charting subsystem across its functionality, including numerical XY charts and boundary conditions.
+
+- Designed and developed the XY Star visual test tool to investigate serious failures involving XY data points outside defined chart boundaries.
+
+- Constructed 14 nested, mathematically generated star plots based on circular geometry, creating a parameterized visual test environment.
+
+- Enabled systematic scaling, translation, and rotation of the star plots by changing spreadsheet values, with visually predictable results for each transformation.
+
+- Provided developers with reproducible visual feedback that assisted in identifying and resolving the associated charting defects.
+
+- Selected by Lotus to travel from Massachusetts to California to demonstrate Lotus 1-2-3 Release 3 to customers, with the XY Star charts serving as a central part of the presentation.
+
+### Software Design, Development & Testing — Sturdy Software Incorporated
+
+**Location and dates to be recovered**
+
+- Collaboratively designed cryptographic algorithms for a working software encryption system.
+
+- Designed reversible transformation algorithms exhibiting strong avalanche behavior in both forward and inverse operations.
+
+- Developed a family of systematically related algorithm variants, internally termed “isomers.”
+
+- Personally wrote and tested every line of code in the working encryption implementation.
+
+- Developed reduced-scale 7-bit, 6-bit, and 5-bit implementations to validate algorithm behavior and make internal transformations more readily observable.
+
+- Used reduced-scale implementations to investigate boundary conditions and identify degradation at small parameter sizes.
+
+- Identified cyclic behavior in a 4-bit test implementation and experimentally demonstrated that a single-bit perturbation could break the cycle.
+
+- Applied systematic experimental testing to determine practical limits and characterize algorithm behavior.
+
+- Participated in the conceptual design and planning of the proposed SRT Error Control and SRT Data Compression product families.
+
+### Web Content Administrator
+
+**Employer and dates to be recovered**
+
+- Administered and maintained website content.
+
+- Managed online information and updates.
+
+- Worked with web-based publishing and content-management systems.
+
+### Performer — Pasta Al Dente, *Tony and Maria’s Italian Comedy Wedding*
+
+**Greater Boston and Cape Cod, MA**
+
+**Approximately two years — exact dates to be recovered**
+
+- Performed a recurring scripted role in the interactive comedy production *Tony and Maria’s Italian Comedy Wedding*.
+
+- Portrayed an Italian priest using an exaggerated Italian accent as part of the character.
+
+- Performed approximately 12 shows per year, primarily on Cape Cod.
+
+- Delivered the role to live audiences with strong comedic response.
+
+### Performer — Renaissance Pleasure Faire
+
+**Massachusetts — dates to be recovered**
+
+- Portrayed Dr. Thomas Campion, the English physician, poet, and composer.
+
+- Remained in character while interacting directly with customers at the Faire.
+
+- Serenaded customers with Thomas Campion’s original works.
+
