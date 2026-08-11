@@ -4,7 +4,9 @@
 
 ### Professional Summary
 
-California-licensed insurance producer with extensive experience in customer service, direct sales presentations, telephone fundraising, outbound calling, payment processing, and public-facing work. Experienced in scripted telephone solicitation, objection handling, face-to-face sales presentations, answering prospective-customer questions, and asking for financial commitments. Brings a diverse professional background spanning sales, transportation, hospitality, education, technology, and live performance, with strong communication, troubleshooting, and interpersonal skills.
+California-licensed insurance producer with **extensive customer-service experience** and additional experience in direct sales presentations, telephone fundraising, outbound calling, payment processing, and public-facing work.
+
+Experienced in scripted telephone solicitation, objection handling, face-to-face sales presentations, answering prospective-customer questions, and asking for financial commitments. Brings a diverse professional background spanning sales, transportation, hospitality, education, technology, and live performance, with strong communication, troubleshooting, and interpersonal skills.
 
 ## Active Licenses & Credentials
 
@@ -16,7 +18,23 @@ California-licensed insurance producer with extensive experience in customer ser
 
 - Chauffeur’s Permit
 
-- California 30-Day Substitute Teaching Permit — Active
+- California 30-Day Substitute Teaching Permit
+
+## Professional Training & Certificates
+
+- Bartender Certificate — Bartenders Training Institute — approximately 2021; exact year to be recovered
+
+- Northern Lights Santa Academy — Santa training — Summer 2025
+
+## Inactive Credentials
+
+- California Single Subject Biology Teaching Credential — Inactive
+
+- Middle School Science Certificate — Massachusetts Institute for New Teachers — Inactive
+
+- ServSafe Food Handler Certificate — Inactive
+
+---
 
 ## Relevant Sales & Customer Experience
 
@@ -40,11 +58,11 @@ California-licensed insurance producer with extensive experience in customer ser
 
 ### Timeshare Sales Presenter — Village Green at Stowe
 
-**Stowe, VT**  
+**Framingham, MA**  
 
 **Approximately 1986**
 
-- Delivered face-to-face sales presentations for timeshare condominium interests.
+- Delivered face-to-face sales presentations for timeshare condominium interests at Village Green at Stowe.
 
 - Presented to prospective customers attending through a promotional prize program.
 
@@ -53,6 +71,8 @@ California-licensed insurance producer with extensive experience in customer ser
 - Engaged directly with prospective customers throughout the presentation.
 
 - Transitioned prospects to a manager responsible for closing sales.
+
+- Visited the Village Green at Stowe property in Stowe, Vermont, to become familiar with the resort being presented to prospective buyers.
 
 ### Taxi Driver — Yellow Cab
 
@@ -114,6 +134,8 @@ California-licensed insurance producer with extensive experience in customer ser
 
 - Worked effectively with photographers, managers, families, and other members of the Santa team.
 
+---
+
 ## Additional Customer-Service Experience
 
 ### Crew Member — ArcLight Cinema
@@ -132,7 +154,7 @@ California-licensed insurance producer with extensive experience in customer ser
 
 ### Newspaper Carrier — The Boston Globe
 
-**Massachusetts**  
+**Newton, MA**  
 
 **Approximately 1979**
 
@@ -144,7 +166,7 @@ California-licensed insurance producer with extensive experience in customer ser
 
 ### Bagger / Customer Service — Star Market
 
-**Massachusetts**  
+**Newton, MA**  
 
 **Approximately 1980**
 
@@ -154,9 +176,15 @@ California-licensed insurance producer with extensive experience in customer ser
 
 - Provided direct customer service in a retail grocery environment.
 
+---
+
 ## Additional Professional Background
 
-Earlier professional experience includes software quality assurance, software development, network engineering, web development, teaching, technical writing, publishing, and live performance. Technical employers and clients included Lotus Development Corporation, Visa, Bank of America, Slate Corporation, Notable Technologies, and Lynch, Marks & Associates. Separate technical and performance résumés are available for additional career history.
+Earlier professional experience includes software quality assurance, software development, network engineering, web development, teaching, technical writing, publishing, and live performance. Technical employers and clients included Lotus Development Corporation, Visa, Bank of America, Slate Corporation, Notable Technologies, and Lynch, Marks & Associates.
+
+Separate technical and performance résumés are available for additional career history.
+
+---
 
 ## Education
 
@@ -176,17 +204,7 @@ Earlier professional experience includes software quality assurance, software de
 
 **Middle School Science teacher training**
 
-## Inactive Credentials & Professional Training
-
-- California Single Subject Biology Teaching Credential — Inactive
-
-- Middle School Science Certificate — Massachusetts Institute for New Teachers — Inactive
-
-- ServSafe Food Handler Certificate — Inactive
-
-- Bartender Certificate — Bartenders Training Institute — approximately 2021; exact year to be recovered
-
-- Northern Lights Santa Academy — Santa training — Summer 2025
+---
 
 ## Skills
 
