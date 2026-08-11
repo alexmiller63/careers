@@ -360,3 +360,295 @@ Current technical and intellectual work includes software architecture, Ada deve
 
 - Identified a cash-counting error during reconciliation when a Susan B. Anthony $1 coin was mistaken for a quarter.
 
+### Web Content Administrator
+
+**Employer and dates to be recovered**
+
+- Administered and maintained website content.
+
+- Managed online information and updates.
+
+- Worked with web-based publishing and content-management systems.
+
+### Performer — Pasta Al Dente, *Tony and Maria's Italian Comedy Wedding*
+
+**Greater Boston and Cape Cod, MA**
+
+**Approximately 2 years — exact dates to be recovered**
+
+- Performed a recurring scripted role in the interactive comedy production *Tony and Maria's Italian Comedy Wedding*.
+
+- Portrayed an Italian priest using an exaggerated Italian accent as part of the character.
+
+- Performed approximately 12 shows per year, primarily on Cape Cod.
+
+- Delivered the role to live audiences with strong comedic response.
+
+### Performer — Renaissance Pleasure Faire
+
+**Massachusetts — dates to be recovered**
+
+- Portrayed Dr. Thomas Campion, the English physician, poet, and composer.
+
+- Remained in character while interacting directly with customers at the Faire.
+
+- Serenaded customers with Thomas Campion's original works.
+
+## Current Technical & Independent Projects
+
+### Acme Conscience, Inc.
+
+**Present**
+
+- Developing Acme Conscience, Inc. as a corporate home for software, research, publishing, and related intellectual projects.
+
+- Organizing current and revived technical projects into specialized divisions and project families.
+
+### Horse Racing Expert System / Contrarian Handicapping Research
+
+**Current research and database project**
+
+Designed a rule-based contrarian horse-racing handicapping strategy intended for historical testing using BRIS racing data and Microsoft Access.
+
+The strategy deliberately eliminates selections likely to be overbet. The exclusion process includes:
+
+- Top 10 horses globally
+
+- Top 10 trainers globally
+
+- Top 10 trainers at each of approximately 15 readily wagerable U.S. tracks
+
+- Top 10 jockeys at each of those tracks
+
+- Top 3 horses in each race by BRIS Power Rating
+
+These popular horses, trainers, and jockeys can be incorporated into a TwinSpires stable and used as exclusions. Horses remaining after the contrarian exclusions become betting candidates.
+
+If more than one candidate remains, the horse with the highest BRIS Power Rating among the remaining horses is selected.
+
+Designed a historical-testing methodology focused on profit and loss as a function of betting odds rather than merely winner-picking accuracy.
+
+The intended analysis treats odds as a spectrum rather than imposing arbitrary fixed categories such as short-, medium-, and long-odds wagers.
+
+Preliminary manual experimentation suggested that the contrarian selection process tends to identify longer-odds horses. This remains an observation to be tested quantitatively against historical data.
+
+### PearlSam and Fusslor — Integrated Personal Web Platforms
+
+**Current web-development projects**
+
+Designed and developed PearlSam and Fusslor as centralized web platforms integrating capabilities commonly distributed across separate Internet services.
+
+Capabilities include:
+
+- Photo collection and presentation
+
+- Video collection and presentation
+
+- Mailing-list functionality
+
+- Email and associated email identity
+
+- Business-card integration
+
+- Prominent cross-platform social-media linking
+
+- Text chat
+
+- Webcam/video communication
+
+A central design principle is preservation of the user's existing investment in outside social-media platforms.
+
+Rather than attempting to replace established social-media services, PearlSam and Fusslor are designed to make a user's existing social-media identities and content prominently accessible from a single central hub.
+
+The major capabilities are working in Fusslor.
+
+PearlSam is substantially implemented, although its implementation has not yet undergone thorough testing.
+
+A planned usability exercise will compare the experience of uploading and publishing an existing collection of videos through PearlSam with corresponding workflows on established social-media platforms.
+
+PearlSam and Fusslor have substantially similar technical capabilities. Fusslor serves adult content; PearlSam does not. The distinction is primarily one of subject matter rather than the underlying shared technical capabilities.
+
+### Sturdy Software
+
+**Division of Acme Conscience, Inc. — in development**
+
+- Reconstructing and extending earlier software research and development.
+
+- Reviving work involving cryptography, data compression, and error-control technologies.
+
+- Applying modern development, testing, and documentation methods to earlier software designs.
+
+### Sturdy Cryptographic Algorithm Reconstruction
+
+**Current reconstruction project**
+
+Reconstructed source code for the earlier Sturdy cryptographic algorithm in Ada from surviving knowledge of the original design.
+
+During reconstruction, the resulting Ada source was recognizable as substantially corresponding to the original implementation.
+
+The reconstruction occurred before the current GitHub-based preservation methodology was established, so the reconstructed source and design details were not preserved using the more systematic preservation process now used for current projects.
+
+Compilation, execution, test-harness development, behavioral verification, and cryptographic validation remain to be performed.
+
+The current work should therefore be described as a source-code reconstruction rather than as a cryptographically validated implementation.
+
+### ChannelDial — Ada / Unix / Linux / Laravel Channel Directory
+
+**Current software-development and documentation project**
+
+Developing ChannelDial as an interactive Unix/Linux application for collecting, organizing, and searching Zello channels.
+
+The command-line implementation is being developed incrementally in Ada.
+
+The structured channel data model includes information such as:
+
+- Channel name
+
+- Platform
+
+- Topic
+
+- Language
+
+- Region
+
+- Description
+
+- Date last verified
+
+A corresponding Laravel web application is planned to provide web-based access to the channel directory.
+
+Related work includes development of data-mining approaches for extracting useful channel information from existing Zello channel databases, directories, and other available sources.
+
+Development is deliberately incremental. Each small working component of the Ada implementation is accompanied by a corresponding tutorial lesson.
+
+These lessons are intended eventually to form a book teaching Ada development through the construction of a real-world application.
+
+### Independent ChatGPT Usability Study
+
+**Current independent software-quality research**
+
+Conducting an independent structured usability study of ChatGPT based on problems encountered during extensive real-world use.
+
+The study concentrates particularly on persistence failures and recurring interface or behavioral problems collectively described during the study as "glitchiness."
+
+Observed problems are decomposed into structured characteristics rather than recorded merely as anecdotal complaints.
+
+Confirmed evaluation fields include:
+
+- Severity
+
+- Impact on the user
+
+- Reproducibility
+
+- Analysis of the effects of the observed behavior
+
+The project applies formal software-quality and usability-analysis thinking to sustained use of a contemporary AI system.
+
+The study is independent and does not imply affiliation with OpenAI.
+
+### Star Almanack — Computational Astronomy and Technical Writing
+
+**Current astronomy, computational, and publishing project**
+
+Developing *The Star Almanack: A Field Guide to the Night Sky*, an astronomy book designed to tell readers when individual stars are most favorably placed for observation.
+
+The astronomical criterion used is when a star transits the local meridian at 9:00 PM local apparent time.
+
+Independently developed spreadsheet-based astronomical calculations for determining these dates.
+
+The original work required many weeks of repetitive spreadsheet calculations across individual stars.
+
+The underlying methodology was subsequently reproduced independently using ChatGPT, providing a cross-check of the independently developed calculation approach.
+
+The project combines computational astronomy, observational astronomy, technical writing, graphical presentation, and narrative explanation.
+
+Narrative stories are used to communicate technical and conceptual points rather than functioning merely as unrelated fiction.
+
+Current stories include:
+
+- **Two Rabbis** — explains the role and necessity of conventions such as the International Date Line and related systems.
+
+- **Neil deGrasse Tyson Story** — examines the balance between developing improved explanatory approaches and retaining traditional conventions that remain useful rather than discarding established methods merely for novelty.
+
+- **Birthday Story** — describes the experience that provided the original impetus for the Star Almanack project.
+
+The project is being developed toward planned publication in 2028.
+
+### Illuminated Bible — Multilingual Text-Presentation Prototype
+
+**Current publishing and language-technology prototype**
+
+Designed and prototyped the Illuminated Bible, a multilingual approach to presenting Biblical text while preserving the normal flow of reading in English.
+
+The reader proceeds through an English Bible normally.
+
+When an important word is encountered, that word is "illuminated" in place without changing its position in the reading sequence.
+
+An illuminated word can present:
+
+- The word in its relevant original language, including Hebrew, Aramaic, Syriac, or Koine Greek as appropriate
+
+- A transliteration intended to assist pronunciation
+
+- The corresponding BEB or WEB translation
+
+The reader then continues through the English text until encountering the next illuminated term.
+
+Working prototype material has been produced covering approximately 10 verses of Genesis and approximately 10 verses of John.
+
+### Elephant — Preservation AI & Tool Orchestration Architecture
+
+**Status: Design phase; no implementation code yet**
+
+Designed the architecture for Elephant, a proposed preservation-oriented AI system with two principal purposes.
+
+The first is preservation: identifying and retaining information that matters from conversations while avoiding unintended alteration, loss, compression, forgetting, or "munging" of significant information.
+
+The second is orchestration: coordinating multiple external open-source and freely available tools and services rather than attempting to reproduce every capability within a single system.
+
+Architecture and requirements development are in progress.
+
+Software implementation has not yet begun.
+
+### Elephant Book — AI-Assisted Notebook & Information Organization
+
+**Status: Design phase; no implementation code yet**
+
+Designed Elephant Book as an AI-assisted notebook and information-management concept associated with the broader Elephant preservation philosophy.
+
+The system is intended to accept ordinary notes as well as handwritten or stencil-assisted notation, providing the freedom of a physical notebook or scratchpad while using an underlying AI to organize, preserve, and retrieve significant information.
+
+The concept combines aspects of:
+
+- Free-form note taking
+
+- Handwritten notation
+
+- Scratchpad use
+
+- Information organization
+
+- Task organization
+
+- AI-assisted preservation and retrieval
+
+A physical-notebook metaphor was considered during product design, including comparison with Moleskine notebooks, but use of the Moleskine name was rejected because it is a trademark.
+
+### LunarFAX — Device-Based Fax Application
+
+**Status: Product design only; no implementation code yet**
+
+Designed LunarFAX as a fax application for sending faxes directly from a user's device.
+
+The proposed usage model begins each user with 7 available fax pages.
+
+The available allowance increases by 1 page each day until reaching a maximum accumulated allowance of 30 pages.
+
+Users can purchase additional fax capacity when needed.
+
+One intended application is a **Lunar Facts** astronomy-marketing campaign in which one astronomy fact can be sent by fax each day to promote the astronomy book.
+
+The LunarFAX application remains in the product-design stage and has not yet been implemented.
+
