@@ -298,3 +298,115 @@ Versatile professional with experience spanning software quality assurance, soft
 
 - Serenaded customers with Thomas Campion’s original works.
 
+## Current Technical & Independent Projects
+
+### Acme Conscience, Inc.
+
+**Present**
+
+- Developing Acme Conscience, Inc. as a corporate home for software, research, publishing, and related intellectual projects.
+
+- Organizing current and revived technical projects into specialized divisions and project families.
+
+### Sturdy Software
+
+**Division of Acme Conscience, Inc. — in development**
+
+- Reconstructing and extending earlier software research and development.
+
+- Reviving work involving cryptography, data compression, and error-control technologies.
+
+- Applying modern development and documentation methods to earlier software designs.
+
+### Sturdy Cryptography
+
+**Current reconstruction project**
+
+- Reconstructing the earlier Sturdy Software cryptographic system from surviving design knowledge and technical principles.
+
+- Documenting the architecture, algorithms, terminology, and experimental behavior of the original system.
+
+- Reexamining the system using contemporary software-development and testing methods.
+
+### Elephant
+
+**Current software project**
+
+- Developing a software concept centered on persistent information retention, organization, and retrieval.
+
+- Exploring integration of structured notes, persistent information, and software-development workflows.
+
+## Performance Experience
+
+### Opera
+
+- Masetto — *Don Giovanni*
+
+- Leporello — *Don Giovanni*
+
+- Papageno — *The Magic Flute*
+
+- Guglielmo — *Così fan tutte*
+
+- Figaro — *The Barber of Seville*
+
+- Figaro — *The Marriage of Figaro*
+
+- Chorus — *Dido and Aeneas*
+
+### Musical Theater
+
+- Scientist — *Li'l Abner*
+
+- Hines — *The Pajama Game*
+
+- Dancer — *My Fair Lady*
+
+- Ebenezer — *Scrooge*
+
+- Apostle — *Jesus Christ Superstar*
+
+### Choral & Vocal Experience
+
+- Ensemble Singer / Soloist — Westwind International Folk Ensemble, Oakland, CA
+
+- Oberlin College Choir
+
+- Oberlin College Musical Union
+
+- Troubadors
+
+- Newton North High School Choir
+
+- Informal vocal performances at piano bars, notably The Alley in Oakland, CA
+
+- Informal performances at various karaoke venues
+
+### Dance Experience
+
+- Céilí dancing — The Starry Plough, Berkeley, CA
+
+- Irish set dancing — The Burren, Somerville, MA
+
+- Contra dancing — Massachusetts and California
+
+## Education
+
+### Oberlin College
+
+**Bachelor of Arts — Russian/Soviet Studies**
+
+### Massachusetts Institute for New Teachers
+
+## Licenses & Certifications
+
+- California Resident Insurance Producer License
+
+- California Security Guard Card
+
+- Driver’s License
+
+- Chauffeur’s Permit
+
+- Non-CDL Class C
+
