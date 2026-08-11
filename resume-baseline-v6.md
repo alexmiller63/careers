@@ -652,3 +652,229 @@ One intended application is a **Lunar Facts** astronomy-marketing campaign in wh
 
 The LunarFAX application remains in the product-design stage and has not yet been implemented.
 
+## Performance Experience
+
+### Professional Character Performance
+
+#### Mall Santa
+
+- Professional seasonal Santa Claus performer.
+
+- Completed Santa training at Northern Lights Santa Academy before obtaining professional Santa work.
+
+- Worked with children and families in a high-volume retail holiday environment.
+
+- Maintained character throughout extended shifts and repeated interactions.
+
+- Adapted interactions to individual children and families.
+
+#### Pasta Al Dente — *Tony and Maria's Italian Comedy Wedding*
+
+**Greater Boston and Cape Cod, MA**
+
+**Approximately 2 years — exact dates to be recovered**
+
+- Performed a recurring scripted role in the interactive comedy production *Tony and Maria's Italian Comedy Wedding*.
+
+- Portrayed an Italian priest using an exaggerated Italian accent as part of the character.
+
+- Performed approximately 12 shows per year, primarily on Cape Cod.
+
+- Delivered the role to live audiences with strong comedic response.
+
+#### Renaissance Pleasure Faire
+
+**Massachusetts — dates to be recovered**
+
+- Portrayed Dr. Thomas Campion, the English physician, poet, and composer.
+
+- Remained in character while interacting directly with customers at the Faire.
+
+- Serenaded customers with Thomas Campion's original works.
+
+### Opera
+
+- Masetto — *Don Giovanni*
+
+- Leporello — *Don Giovanni*
+
+- Papageno — *The Magic Flute*
+
+- Guglielmo — *Così fan tutte*
+
+- Figaro — *The Barber of Seville*
+
+- Figaro — *The Marriage of Figaro*
+
+- Chorus — *Dido and Aeneas*
+
+- Calavera / Diego Rivera Understudy — *Frida* — San Francisco City College — Summer 1994
+
+  - Performed as one of the Calaveras, who appeared on stage through most of the opera and manipulated elements of the set.
+
+  - Understudied the role of Diego Rivera.
+
+### Musical Theater
+
+- Scientist — *Li'l Abner*
+
+- Hines — *The Pajama Game*
+
+- Dancer — *My Fair Lady*
+
+- Apostle / Ensemble — *Jesus Christ Superstar* — Turtle Lane Playhouse, Newton, MA
+
+- Franz — *The Sound of Music* — Turtle Lane Playhouse, Newton, MA
+
+  - Portrayed Franz, the butler, using a German accent.
+
+  - Had relatively few lines and received strong comedic responses from audiences.
+
+- Ebenezer — *Scrooge* — Turtle Lane Playhouse, Newton, MA
+
+  - Portrayed Ebenezer, Scrooge as a young man.
+
+- Officer Krupke — *West Side Story* — Greater Boston area; theater company and dates to be recovered
+
+- Fat Prince — *The Caucasian Chalk Circle* — University of Massachusetts Lowell
+
+  - Performed while a student at UMass Lowell studying mathematics.
+
+  - Date to be recovered.
+
+### Choral & Vocal Experience
+
+- Ensemble Singer / Soloist — Westwind International Folk Ensemble, Oakland, CA
+
+- Oberlin College Choir
+
+- Oberlin College Musical Union
+
+- Troubadors
+
+- Newton North High School Choir
+
+- Informal vocal performances at piano bars, notably The Alley in Oakland, CA
+
+- Informal performances at various karaoke venues
+
+### Dance Experience
+
+- Céilí dancing — The Starry Plough, Berkeley, CA
+
+- Irish set dancing — The Burren, Somerville, MA
+
+- Contra dancing — Massachusetts and California
+
+## Education
+
+### Oberlin College
+
+**Bachelor of Arts — Russian/Soviet Studies**
+
+- Completed bachelor's degree.
+
+### Los Angeles City College
+
+**Associate's Degree Studies — Computer Science**
+
+- Associate's degree nearly complete.
+
+- Degree not yet completed.
+
+### University of Massachusetts Lowell
+
+**Bachelor's Degree Studies — Mathematics**
+
+- Completed approximately 2 years of undergraduate mathematics study.
+
+- Degree not completed.
+
+- Worked for Ruffalo Cody as a telephone fundraiser while attending UMass Lowell.
+
+### Massachusetts Institute for New Teachers
+
+- Completed teacher-training work associated with middle-school science certification.
+
+- Exact program title and dates to be recovered.
+
+### Northern Lights Santa Academy
+
+**Santa Training — Summer 2025**
+
+- Completed professional Santa training before obtaining seasonal employment as a mall Santa.
+
+### Bartenders Training Institute
+
+**Bartender Training — approximately 5 years ago; exact year to be recovered**
+
+- Completed bartender training through the Bartenders Training Institute.
+
+- Certificate documents completion of the institute's training program and is not a government-issued license.
+
+## Active Credentials
+
+- California Resident Insurance Producer License
+
+- California Security Guard Card
+
+- California Class C Driver's License
+
+- California 30-Day Substitute Teaching Permit
+
+## Inactive Credentials / Certifications
+
+- California Single Subject Teaching Credential — Biology — inactive
+
+- Massachusetts middle-school science certification through the Massachusetts Institute for New Teachers — inactive
+
+- ServSafe Food Handler Certificate — inactive
+
+- Bartenders Training Institute Certificate — training certificate; not a government-issued credential
+
+## Skills & Qualifications
+
+Software quality assurance, software testing, test design, test-tool development, defect analysis, bug tracking, white-box testing, black-box testing, boundary-condition testing, regression testing, usability analysis, reproducibility analysis, software development, algorithm design, cryptographic software, Ada, SQL, database analysis, Microsoft Access, Linux and Unix environments, web development, Laravel, Server-Side Includes (SSI), troubleshooting, web design and administration, technical writing, independent research, computational astronomy, spreadsheet modeling, Microsoft Excel, Microsoft Office, LibreOffice, Adobe Acrobat, data entry, POS systems, cash-register operations, credit-card payment processing, customer service, telephone fundraising, outbound calling, in-person sales presentations, public speaking, classroom management, teaching, driving, navigation, time management, attention to detail, interpersonal communication, acting, character performance, singing, choral singing, musical theater, opera, dance, and live audience interaction.
+
+## Baseline Notes / Information Still to Recover
+
+This long baseline intentionally preserves incomplete information rather than inventing dates or details.
+
+Items still to be recovered or verified include:
+
+- Exact dates for Lotus Development Corporation.
+
+- Exact dates and location for Notable Technologies.
+
+- Exact dates and location for Slate Corporation.
+
+- Exact dates and location for Sturdy Software Incorporated.
+
+- Exact dates for Lynch, Marks & Associates.
+
+- Exact dates for Bank of America.
+
+- Exact dates for Visa.
+
+- Exact dates for Internet Alfredo.
+
+- Employer and dates for Web Content Administrator position.
+
+- Exact dates for Boston-area substitute teaching.
+
+- Exact semester and dates for Marblehead Community Charter Public School.
+
+- Exact dates for Ruffalo Cody, which can be correlated with attendance at the University of Massachusetts Lowell.
+
+- Exact dates for Pasta Al Dente.
+
+- Exact dates for the Renaissance Pleasure Faire.
+
+- Theater company and dates for *West Side Story*.
+
+- Date of *The Caucasian Chalk Circle* at the University of Massachusetts Lowell.
+
+- Exact year of Bartenders Training Institute attendance.
+
+- Exact formal title and dates of the Massachusetts Institute for New Teachers science credential.
+
