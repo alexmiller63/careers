@@ -1,3 +1,6 @@
+
+
+
 ## Performance Experience
 
 ### Opera
@@ -73,4 +76,6 @@
 - Irish set dancing — The Burren, Somerville, MA
 
 - Contra dancing — Massachusetts and California
+
+
 
