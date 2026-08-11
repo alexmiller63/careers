@@ -431,3 +431,111 @@ Versatile professional with experience spanning software quality assurance, soft
 
 - Contra dancing — Massachusetts and California
 
+## Education
+
+### Oberlin College
+
+**Bachelor of Arts — Russian/Soviet Studies**
+
+### Massachusetts Institute for New Teachers
+
+## Licenses & Certifications
+
+- California Resident Insurance Producer License
+
+- California Security Guard Card
+
+- Driver’s License
+
+- Chauffeur’s Permit
+
+- Non-CDL Class C
+
+## Skills
+
+- Software quality assurance
+
+- Software testing
+
+- Test design
+
+- Test-tool development
+
+- Defect analysis
+
+- Bug tracking
+
+- White-box testing
+
+- Black-box testing
+
+- Boundary-condition testing
+
+- Regression testing
+
+- Software development
+
+- Algorithm design
+
+- Cryptographic software
+
+- Troubleshooting
+
+- Web design and administration
+
+- Technical writing
+
+- Independent research
+
+- Astronomy research
+
+- Data entry
+
+- Microsoft Excel
+
+- Microsoft Outlook
+
+- Microsoft Office
+
+- Adobe Acrobat
+
+- POS systems
+
+- Cash-register operations
+
+- Credit-card payment processing
+
+- Customer service
+
+- Driving
+
+- Navigation
+
+- Outbound calling
+
+- Typing
+
+- Interpersonal communication
+
+- Time management
+
+- Attention to detail
+
+- Classroom management
+
+- Acting
+
+- Character performance
+
+- Singing
+
+- Choral singing
+
+- Musical theater
+
+- Opera
+
+- Dance
+
+- Live audience interaction
+
