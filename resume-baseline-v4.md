@@ -1,3 +1,4 @@
+
 ## Alexander Ferrari Miller
 
 ## Professional Summary
@@ -203,4 +204,60 @@ Versatile professional with experience spanning software quality assurance, soft
 - Worked with scripts in Microsoft Word and WordPerfect used by lawyers to generate pleadings, proofs of service, and other routine legal documents from contact information.
 
 - Developed a Lotus Notes application for a Lynch, Marks & Associates client to track telemarketing phone calls and follow-up activity.
+
+### Senior Quality Assurance Engineer — Notable Technologies
+
+**Location and dates to be recovered**
+
+- Performed software quality assurance for pen-enabled and pen-centric software applications.
+
+- Tested multiple pen-centric products, including a crossword-puzzle game, data-compression software, and a communications application.
+
+- Investigated performance-related problems associated with running applications on the relatively slow underlying pen-computing environment, believed to have been Windows for Pen Computing.
+
+- Developed a bug-tracking database to organize and manage software defects.
+
+- Advocated for white-box testing methods and greater integration between software development and quality assurance in an environment primarily using an over-the-wall black-box testing model.
+
+### Software Quality Assurance Contractor — Slate Corporation
+
+**Location and dates to be recovered**
+
+- Performed software quality assurance for pen-centric technologies.
+
+- Tested software applications developed for pen-enabled computing environments.
+
+- Identified the lack of file-save capability as a major obstacle to effective software testing.
+
+- Advocated for file-save functionality so QA could preserve test outputs, compare product behavior, and provide concrete artifacts in support of defect reports.
+
+- Documented reproducible test steps despite limitations on preserving product output.
+
+- The project ended after venture-capital funding was exhausted before a more effective testing process could be established.
+
+### Software Engineer, Quality Assurance — Charting — Lotus Development Corporation
+
+**Cambridge, MA**
+
+**Dates to be recovered**
+
+- Served as one of four QA engineers responsible for the charting subsystem of Lotus 1-2-3 Release 3.
+
+- Tested the charting subsystem across its functionality, including numerical XY charts and boundary conditions.
+
+- Designed and developed the XY Star visual test tool to investigate serious failures involving XY data points outside defined chart boundaries.
+
+- Constructed 14 nested, mathematically generated star plots based on circular geometry, creating a parameterized visual test environment.
+
+- Enabled systematic scaling, translation, and rotation of the star plots by changing spreadsheet values, with visually predictable results for each transformation.
+
+- Provided developers with reproducible visual feedback that assisted in identifying and resolving the associated charting defects.
+
+- Independently developed a separate spreadsheet cell-comparison test tool based on a heuristic definition of cell equality.
+
+- Accounted for multiple characteristics of spreadsheet cells, including values, source contents, and formatting, when determining whether cells should be considered equivalent.
+
+- Refined the cell-equality logic into a highly compact implementation that was circulated for use by others in spreadsheet testing.
+
+- Selected by Lotus to travel from Massachusetts to California to demonstrate Lotus 1-2-3 Release 3 to customers, with the XY Star charts serving as a central part of the presentation.
 
