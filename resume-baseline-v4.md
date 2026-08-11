@@ -261,3 +261,97 @@ Versatile professional with experience spanning software quality assurance, soft
 
 - Selected by Lotus to travel from Massachusetts to California to demonstrate Lotus 1-2-3 Release 3 to customers, with the XY Star charts serving as a central part of the presentation.
 
+### Software Design, Development & Testing — Sturdy Software Incorporated
+
+**Location and dates to be recovered**
+
+- Collaboratively designed cryptographic algorithms for a working software encryption system.
+
+- Designed reversible transformation algorithms exhibiting strong avalanche behavior in both forward and inverse operations.
+
+- Developed a family of systematically related algorithm variants, internally termed “isomers.”
+
+- Personally wrote and tested every line of code in the working encryption implementation.
+
+- Developed reduced-scale 7-bit, 6-bit, and 5-bit implementations to validate algorithm behavior and make internal transformations more readily observable.
+
+- Used reduced-scale implementations to investigate boundary conditions and identify degradation at small parameter sizes.
+
+- Identified cyclic behavior in a 4-bit test implementation and experimentally demonstrated that a single-bit perturbation could break the cycle.
+
+- Applied systematic experimental testing to determine practical limits and characterize algorithm behavior.
+
+- Participated in the conceptual design and planning of the proposed SRT Error Control and SRT Data Compression product families.
+
+### Web Content Administrator
+
+**Employer and dates to be recovered**
+
+- Administered and maintained website content.
+
+- Managed online information and updates.
+
+- Worked with web-based publishing and content-management systems.
+
+### Performer — Pasta Al Dente, *Tony and Maria’s Italian Comedy Wedding*
+
+**Greater Boston and Cape Cod, MA**
+
+**Approximately two years — exact dates to be recovered**
+
+- Performed a recurring scripted role in the interactive comedy production *Tony and Maria’s Italian Comedy Wedding*.
+
+- Portrayed an Italian priest using an exaggerated Italian accent as part of the character.
+
+- Performed approximately 12 shows per year, primarily on Cape Cod.
+
+- Delivered the role to live audiences with strong comedic response.
+
+### Performer — Renaissance Pleasure Faire
+
+**Massachusetts — dates to be recovered**
+
+- Portrayed Dr. Thomas Campion, the English physician, poet, and composer.
+
+- Remained in character while interacting directly with customers at the Faire.
+
+- Serenaded customers with Thomas Campion’s original works.
+
+## Current Technical & Independent Projects
+
+### Acme Conscience, Inc.
+
+**Present**
+
+- Developing Acme Conscience, Inc. as a corporate home for software, research, publishing, and related intellectual projects.
+
+- Organizing current and revived technical projects into specialized divisions and project families.
+
+### Sturdy Software
+
+**Division of Acme Conscience, Inc. — in development**
+
+- Reconstructing and extending earlier software research and development.
+
+- Reviving work involving cryptography, data compression, and error-control technologies.
+
+- Applying modern development and documentation methods to earlier software designs.
+
+### Sturdy Cryptography
+
+**Current reconstruction project**
+
+- Reconstructing the earlier Sturdy Software cryptographic system from surviving design knowledge and technical principles.
+
+- Documenting the architecture, algorithms, terminology, and experimental behavior of the original system.
+
+- Reexamining the system using contemporary software-development and testing methods.
+
+### Elephant
+
+**Current software project**
+
+- Developing a software concept centered on persistent information retention, organization, and retrieval.
+
+- Exploring integration of structured notes, persistent information, and software-development workflows.
+
