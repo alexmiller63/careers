@@ -20,9 +20,9 @@ Experienced in sustained character work, comedy, accents, audience interaction, 
 
 ### Santa Claus — Professional Seasonal Performer
 
-**Culver City, CA — Christmas 2025**
+**Culver City, CA — Christmas 2025; scheduled for 2026 season**
 
-Performed professionally as Santa Claus in a high-volume public setting, maintaining character throughout extended shifts and interacting individually with children, families, and adults. Adapted interactions to individual children and differing communication needs, including a particularly successful interaction with an autistic child. Handled difficult interactions while remaining in character.
+Performed professionally as Santa Claus in a high-volume public setting, maintaining character throughout extended shifts and interacting individually with children, families, and adults. Adapted interactions to individual children and differing communication needs, including a particularly successful interaction with an autistic child. De-escalated a teenage prank while remaining in character.
 
 ### Italian Priest — Italian Comedy Wedding
 
@@ -58,7 +58,7 @@ Credits include:
 
 **Franz — *The Sound of Music***  
 
-Character role using a German accent, with spoken dialogue, comedy, and ensemble performance.
+Character role using a German accent, with spoken dialogue and ensemble performance; consistently got laughs as Franz.
 
 **Young Ebenezer Scrooge — *Scrooge***  
 
@@ -80,43 +80,29 @@ Performed Officer Krupke in a stage production of *West Side Story*.
 
 Performed the Fat Prince in Bertolt Brecht's *The Caucasian Chalk Circle* while studying at UMass Lowell.
 
+**Hines — *The Pajama Game***
+
+**Scientist — *Li’l Abner***
+
+**Dancer — *My Fair Lady***
+
 ## Opera
 
 ### Studio Repertory Opera Company — Oakland, CA
 
-**Figaro — *The Barber of Seville***  
+**Selected roles:** Figaro — *The Barber of Seville* (Rossini); Figaro — *The Marriage of Figaro* (Mozart); Papageno — *The Magic Flute* (Mozart); Guglielmo — *Così fan tutte* (Mozart); Masetto / Leporello — *Don Giovanni* (Mozart); Chorus — *Dido and Aeneas* (Purcell).
 
-Performed Figaro in Rossini's *The Barber of Seville*.
+### San Francisco City College — San Francisco, CA
 
-**Figaro — *The Marriage of Figaro***  
+**Calavera / Understudy for Diego Rivera — *Frida***
 
-Performed Figaro in Mozart's *The Marriage of Figaro*.
+## Choral & Ensemble Performance
 
-**Papageno — *The Magic Flute***  
+Newton North High School Choir • Family Singers • Troubadours • Oberlin College Choir • Oberlin College Musical Union • Westwind International Folk Ensemble, Oakland, CA — ensemble singer and soloist.
 
-Performed Papageno in Mozart's *The Magic Flute*.
+## Dance Experience
 
-**Guglielmo — *Così fan tutte***  
-
-Performed Guglielmo in Mozart's *Così fan tutte*.
-
-**Masetto / Leporello — *Don Giovanni***  
-
-Performed Masetto and Leporello in Mozart's *Don Giovanni*.
-
-**Chorus — *Dido and Aeneas***  
-
-Performed in the chorus of Purcell's *Dido and Aeneas*.
-
-### *Frida* — San Francisco, CA
-
-**Calavera**
-
-Performed a Calavera in the opera *Frida*.
-
-## Vocal Experience
-
-Performance experience includes opera, musical theater, choral singing, folk music, period music, and popular repertoire. Experience includes solo character singing, ensemble singing, and singing while maintaining a theatrical character.
+Dancer — *My Fair Lady* • Céilí dancing — The Starry Plough, Berkeley, CA • Irish set dancing — The Burren, Somerville, MA • Contra dancing — Massachusetts and California.
 
 ## Training
 
@@ -128,5 +114,5 @@ Professional Santa training in preparation for seasonal performance work.
 
 ## Performance Skills
 
-Character acting • Sustained character performance • Interactive theater • Audience interaction • Comedy • German accent • Italian character/accent • Musical theater • Opera • Choral singing • Period music • Folk and popular repertoire • Film and television set experience • Historical character portrayal • Professional Santa performance
+Character acting • Interactive theater • Comedy • German and Italian accents • Musical theater • Opera • Choral singing • Period music • Film and television • Historical character portrayal • Professional Santa performance
 
