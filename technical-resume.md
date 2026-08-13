@@ -14,7 +14,7 @@ alex.miller.boston@gmail.com
 
 Software engineer and quality-assurance professional with experience in software development, black-box testing, network engineering, web development, database-backed applications, technical troubleshooting, and systems design.
 
-Professional experience includes commercial software development and quality assurance for **Sturdy Software, Inc., Lotus Development Corporation, and Visa**. Current development work through **Acme Conscience, Inc.** includes cryptographic software reconstruction, human-AI knowledge durability, communications discovery, expert-system research, social-platform development, astronomical computation, and structured digital publishing.
+Professional experience includes commercial software development and quality assurance for **Sturdy Software, Inc. and Lotus Development Corporation**. Current development work through **Acme Conscience, Inc.** includes cryptographic software reconstruction, human-AI knowledge durability, communications discovery, expert-system research, social-platform development, astronomical computation, and structured digital publishing.
 
 ## Current Technical Development — Acme Conscience, Inc.
 
