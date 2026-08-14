@@ -46,6 +46,12 @@ Experienced in scripted telephone solicitation, objection handling, face-to-face
 
 ## Relevant Sales & Customer Experience
 
+### Insurance Agent — World Financial Group
+
+**World Financial Group — 2026 – Present**
+
+Hired as an insurance agent with World Financial Group (WFG), a multi-level marketing financial-services organization owned by Transamerica. • Participated in WFG insurance and financial-services training. • Hold an active California Resident Insurance Producer License. • Transamerica carrier appointment pending; not yet appointed to sell Transamerica insurance products.
+
 ### Telephone Fundraiser — Ruffalo Cody
 
 **University of Massachusetts Lowell — Lowell, MA — 2005**
