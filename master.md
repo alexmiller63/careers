@@ -10,7 +10,7 @@ Versatile professional with experience spanning software quality assurance, soft
 
 Earlier technical career includes software quality assurance and software development for commercial software products, including Lotus 1-2-3 Release 3, as well as cryptographic software design, implementation, and testing. Experienced in systematic testing, troubleshooting, defect analysis, test-tool development, written communication, public interaction, POS and payment systems, data entry, and independent project development.
 
-Current technical and intellectual work includes software architecture, Ada development, web applications, artificial intelligence concepts, usability research, computational astronomy, database-based horse-racing research, multilingual publishing, and reconstruction of earlier cryptographic work.
+Current technical and intellectual work includes a 13-project portfolio spanning software architecture, Ada development, web applications, artificial intelligence concepts, usability research, computational astronomy, database-based horse-racing research, multilingual publishing, communications, business projects, digital publishing, and reconstruction of earlier cryptographic work.
 
 ## Professional Experience
 
@@ -71,7 +71,7 @@ Current technical and intellectual work includes software architecture, Ada deve
 - Operated POS and cash-register systems.
 - Maintained an organized work area while handling multiple customer requests.
 
-### Website Designer — PearlSam
+### Website Designer — Pearlsom
 
 **Los Angeles, CA**
 
@@ -81,7 +81,7 @@ Current technical and intellectual work includes software architecture, Ada deve
 - Managed web-based information and site organization.
 - Applied technical troubleshooting and computer skills to website maintenance.
 - Worked independently on long-term web projects.
-- Developed PearlSam as a centralized web platform integrating capabilities commonly distributed across separate Internet services.
+- Developed Pearlsom as a centralized web platform integrating capabilities commonly distributed across separate Internet services.
 - Worked with functionality involving photos, videos, mailing lists, email identity, business-card integration, social-media linking, text chat, and webcam/video communication.
 
 ### Author — *The Star Almanack: A Field Guide to the Night Sky*
@@ -313,67 +313,18 @@ Current technical and intellectual work includes software architecture, Ada deve
 
 ## Current Technical & Independent Projects
 
-### Acme Conscience, Inc.
+The current project inventory contains **13 named projects**. Acme Conscience, Inc. and Sturdy Software are organizational homes/divisions and are not counted separately in the 13-project total.
+
+### Organizational Framework
+
+#### Acme Conscience, Inc.
 
 **Present**
 
 - Developing Acme Conscience, Inc. as a corporate home for software, research, publishing, and related intellectual projects.
 - Organizing current and revived technical projects into specialized divisions and project families.
 
-### Horse Racing Expert System / Contrarian Handicapping Research
-
-**Current research and database project**
-
-Designed a rule-based contrarian horse-racing handicapping strategy intended for historical testing using BRIS racing data and Microsoft Access.
-
-The strategy deliberately eliminates selections likely to be overbet. Exclusions include:
-
-- Top 10 horses globally
-- Top 10 trainers globally
-- Top 10 trainers at each of approximately 15 readily wagerable U.S. tracks
-- Top 10 jockeys at each of those tracks
-- Top 3 horses in each race by BRIS Power Rating
-
-These popular horses, trainers, and jockeys can be incorporated into a TwinSpires stable and used as exclusions. Horses remaining after the contrarian exclusions become betting candidates.
-
-If more than one candidate remains, the horse with the highest BRIS Power Rating among the remaining horses is selected.
-
-Designed a historical-testing methodology focused on profit and loss as a function of betting odds rather than merely winner-picking accuracy.
-
-The intended analysis treats odds as a spectrum rather than imposing arbitrary fixed categories such as short-, medium-, and long-odds wagers.
-
-Preliminary manual experimentation suggested that the contrarian selection process tends to identify longer-odds horses. This remains an observation to be tested quantitatively against historical data.
-
-### PearlSam and Fusslor — Integrated Personal Web Platforms
-
-**Current web-development projects**
-
-Designed and developed PearlSam and Fusslor as centralized web platforms integrating capabilities commonly distributed across separate Internet services.
-
-Capabilities include:
-
-- Photo collection and presentation
-- Video collection and presentation
-- Mailing-list functionality
-- Email and associated email identity
-- Business-card integration
-- Prominent cross-platform social-media linking
-- Text chat
-- Webcam/video communication
-
-A central design principle is preservation of the user's existing investment in outside social-media platforms.
-
-Rather than attempting to replace established social-media services, PearlSam and Fusslor are designed to make a user's existing social-media identities and content prominently accessible from a single central hub.
-
-The major capabilities are working in Fusslor.
-
-PearlSam is substantially implemented, although its implementation has not yet undergone thorough testing.
-
-A planned usability exercise will compare the experience of uploading and publishing an existing collection of videos through PearlSam with corresponding workflows on established social-media platforms.
-
-PearlSam and Fusslor have substantially similar technical capabilities. Their distinction is primarily one of subject matter rather than underlying shared technical capabilities.
-
-### Sturdy Software
+#### Sturdy Software
 
 **Division of Acme Conscience, Inc. — in development**
 
@@ -381,7 +332,7 @@ PearlSam and Fusslor have substantially similar technical capabilities. Their di
 - Reviving work involving cryptography, data compression, and error-control technologies.
 - Applying modern development, testing, and documentation methods to earlier software designs.
 
-### Sturdy Cryptographic Algorithm Reconstruction
+### 1. Sturdy Cryptographic Algorithm Reconstruction
 
 **Current reconstruction project**
 
@@ -395,7 +346,7 @@ Compilation, execution, test-harness development, behavioral verification, and c
 
 The current work should therefore be described as a source-code reconstruction rather than as a cryptographically validated implementation.
 
-### ChannelDial — Ada / Unix / Linux / Laravel Channel Directory
+### 2. ChannelDial — Ada / Unix / Linux / Laravel Channel Directory
 
 **Current software-development and documentation project**
 
@@ -421,7 +372,116 @@ Development is deliberately incremental. Each small working component of the Ada
 
 These lessons are intended eventually to form a book teaching Ada development through the construction of a real-world application.
 
-### Independent ChatGPT Usability Study
+### 3. Horse-Racing Expert System / Contrarian Handicapping Research
+
+**Current research and database project**
+
+Designed a rule-based contrarian horse-racing handicapping strategy intended for historical testing using BRIS racing data and Microsoft Access.
+
+The strategy deliberately eliminates selections likely to be overbet. Exclusions include:
+
+- Top 10 horses globally
+- Top 10 trainers globally
+- Top 10 trainers at each of approximately 15 readily wagerable U.S. tracks
+- Top 10 jockeys at each of those tracks
+- Top 3 horses in each race by BRIS Power Rating
+
+These popular horses, trainers, and jockeys can be incorporated into a TwinSpires stable and used as exclusions. Horses remaining after the contrarian exclusions become betting candidates.
+
+If more than one candidate remains, the horse with the highest BRIS Power Rating among the remaining horses is selected.
+
+Designed a historical-testing methodology focused on profit and loss as a function of betting odds rather than merely winner-picking accuracy.
+
+The intended analysis treats odds as a spectrum rather than imposing arbitrary fixed categories such as short-, medium-, and long-odds wagers.
+
+Preliminary manual experimentation suggested that the contrarian selection process tends to identify longer-odds horses. This remains an observation to be tested quantitatively against historical data.
+
+### 4. Pearlsom — Integrated Personal Web Platform
+
+**Current web-development project**
+
+Designed and developed Pearlsom as a centralized web platform integrating capabilities commonly distributed across separate Internet services.
+
+Capabilities include:
+
+- Photo collection and presentation
+- Video collection and presentation
+- Mailing-list functionality
+- Email and associated email identity
+- Business-card integration
+- Prominent cross-platform social-media linking
+- Text chat
+- Webcam/video communication
+
+A central design principle is preservation of the user's existing investment in outside social-media platforms.
+
+Rather than attempting to replace established social-media services, Pearlsom is designed to make a user's existing social-media identities and content prominently accessible from a single central hub.
+
+Pearlsom is substantially implemented, although its implementation has not yet undergone thorough testing.
+
+A planned usability exercise will compare the experience of uploading and publishing an existing collection of videos through Pearlsom with corresponding workflows on established social-media platforms.
+
+### 5. Fusslor — Integrated Personal Web Platform
+
+**Current web-development project**
+
+Fusslor is a related social-web platform with substantially similar technical capabilities to Pearlsom but a different subject-matter focus.
+
+The major capabilities are working in Fusslor.
+
+The platform combines user profiles, media publishing, messaging, mailing-list functionality, digital-content capabilities, and prominent connections to external social-media identities.
+
+### 6. Elephant — Preservation AI & Tool Orchestration Architecture
+
+**Status: Design phase; no implementation code yet**
+
+Designed the architecture for Elephant, a proposed preservation-oriented AI system with two principal purposes.
+
+The first is preservation: identifying and retaining information that matters from conversations while avoiding unintended alteration, loss, compression, forgetting, or "munging" of significant information.
+
+The second is orchestration: coordinating multiple external open-source and freely available tools and services rather than attempting to reproduce every capability within a single system.
+
+Architecture and requirements development are in progress.
+
+Software implementation has not yet begun.
+
+**Related concept: Elephant Book**
+
+Elephant Book is an AI-assisted notebook and information-management concept associated with the broader Elephant preservation philosophy. It is treated as a related Elephant concept rather than as a separate project in the 13-project inventory.
+
+The concept combines free-form note taking, handwritten notation, scratchpad use, information organization, task organization, and AI-assisted preservation and retrieval.
+
+### 7. The Illuminated Bible — Multilingual Text-Presentation Prototype
+
+**Current publishing and language-technology prototype**
+
+Designed and prototyped The Illuminated Bible, a multilingual approach to presenting Biblical text while preserving the normal flow of reading in English.
+
+The reader proceeds through an English Bible normally. When an important word is encountered, that word is "illuminated" in place without changing its position in the reading sequence.
+
+An illuminated word can present:
+
+- The word in its relevant original language, including Hebrew, Aramaic, Syriac, or Koine Greek as appropriate
+- A transliteration intended to assist pronunciation
+- The corresponding BEB or WEB translation
+
+The reader then continues through the English text until encountering the next illuminated term.
+
+Working prototype material has been produced covering approximately 10 verses of Genesis and approximately 10 verses of John.
+
+### 8. Star Almanack — Computational Astronomy and Technical Writing
+
+**Current astronomy, computational, and publishing project**
+
+Developing *Star Almanack*, an astronomy book designed to tell readers when individual stars and other objects are most favorably placed for observation.
+
+The astronomical criterion used is when an object transits the local meridian at 9:00 PM local apparent solar time.
+
+Independently developed astronomical calculations for determining these dates and continued developing the work into a reproducible computational system with regression testing.
+
+The project combines computational astronomy, observational astronomy, technical writing, graphical presentation, and narrative explanation.
+
+### 9. ChatGPT Usability Study
 
 **Current independent software-quality research**
 
@@ -442,82 +502,7 @@ The project applies formal software-quality and usability-analysis thinking to s
 
 The study is independent and does not imply affiliation with OpenAI.
 
-### Star Almanack — Computational Astronomy and Technical Writing
-
-**Current astronomy, computational, and publishing project**
-
-Developing *The Star Almanack: A Field Guide to the Night Sky*, an astronomy book designed to tell readers when individual stars are most favorably placed for observation.
-
-The astronomical criterion used is when a star transits the local meridian at 9:00 PM local apparent time.
-
-Independently developed spreadsheet-based astronomical calculations for determining these dates.
-
-The original work required many weeks of repetitive spreadsheet calculations across individual stars.
-
-The underlying methodology was subsequently reproduced independently using ChatGPT, providing a cross-check of the independently developed calculation approach.
-
-The project combines computational astronomy, observational astronomy, technical writing, graphical presentation, and narrative explanation.
-
-Narrative stories are used to communicate technical and conceptual points rather than functioning merely as unrelated fiction.
-
-Current stories include:
-
-- **Two Rabbis** — explains the role and necessity of conventions such as the International Date Line and related systems.
-- **Neil deGrasse Tyson Story** — examines the balance between developing improved explanatory approaches and retaining traditional conventions that remain useful rather than discarding established methods merely for novelty.
-- **Birthday Story** — describes the experience that provided the original impetus for the Star Almanack project.
-
-The project is being developed toward planned publication in 2028.
-
-### Illuminated Bible — Multilingual Text-Presentation Prototype
-
-**Current publishing and language-technology prototype**
-
-Designed and prototyped the Illuminated Bible, a multilingual approach to presenting Biblical text while preserving the normal flow of reading in English.
-
-The reader proceeds through an English Bible normally. When an important word is encountered, that word is "illuminated" in place without changing its position in the reading sequence.
-
-An illuminated word can present:
-
-- The word in its relevant original language, including Hebrew, Aramaic, Syriac, or Koine Greek as appropriate
-- A transliteration intended to assist pronunciation
-- The corresponding BEB or WEB translation
-
-The reader then continues through the English text until encountering the next illuminated term.
-
-Working prototype material has been produced covering approximately 10 verses of Genesis and approximately 10 verses of John.
-
-### Elephant — Preservation AI & Tool Orchestration Architecture
-
-**Status: Design phase; no implementation code yet**
-
-Designed the architecture for Elephant, a proposed preservation-oriented AI system with two principal purposes.
-
-The first is preservation: identifying and retaining information that matters from conversations while avoiding unintended alteration, loss, compression, forgetting, or "munging" of significant information.
-
-The second is orchestration: coordinating multiple external open-source and freely available tools and services rather than attempting to reproduce every capability within a single system.
-
-Architecture and requirements development are in progress.
-
-Software implementation has not yet begun.
-
-### Elephant Book — AI-Assisted Notebook & Information Organization
-
-**Status: Design phase; no implementation code yet**
-
-Designed Elephant Book as an AI-assisted notebook and information-management concept associated with the broader Elephant preservation philosophy.
-
-The system is intended to accept ordinary notes as well as handwritten or stencil-assisted notation, providing the freedom of a physical notebook or scratchpad while using an underlying AI to organize, preserve, and retrieve significant information.
-
-The concept combines aspects of:
-
-- Free-form note taking
-- Handwritten notation
-- Scratchpad use
-- Information organization
-- Task organization
-- AI-assisted preservation and retrieval
-
-### LunarFAX — Device-Based Fax Application
+### 10. LunarFAX — Device-Based Fax Application
 
 **Status: Product design only; no implementation code yet**
 
@@ -532,6 +517,30 @@ Users can purchase additional fax capacity when needed.
 One intended application is a **Lunar Facts** astronomy-marketing campaign in which one astronomy fact can be sent by fax each day to promote the astronomy book.
 
 The LunarFAX application remains in the product-design stage and has not yet been implemented.
+
+### 11. Afghanistan Saffron Business
+
+**Current project — detailed description to be expanded**
+
+Current business project maintained as a named part of the active project inventory. Additional verified scope, technical components, business model, and status details should be added to this master record as they are documented.
+
+Repository/project name: `afghanistan-saffron-business`.
+
+### 12. GitHelm
+
+**Current project — detailed description to be expanded**
+
+Current software project maintained as a named part of the active project inventory. Additional verified architecture, purpose, implementation status, and technical details should be added to this master record as they are documented.
+
+Repository/project name: `GitHelm`.
+
+### 13. The Heather Papers
+
+**Current project — detailed description to be expanded**
+
+Current writing/publishing project maintained as a named part of the active project inventory. Additional verified scope, structure, publication goals, and technical or archival details should be added to this master record as they are documented.
+
+Repository/project name: `The-Heather-Papers`.
 
 ## Performance Experience
 
