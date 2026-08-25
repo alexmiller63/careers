@@ -10,7 +10,7 @@ Versatile professional with experience spanning software quality assurance, soft
 
 Earlier technical career includes software quality assurance and software development for commercial software products, including Lotus 1-2-3 Release 3, as well as cryptographic software design, implementation, and testing. Experienced in systematic testing, troubleshooting, defect analysis, test-tool development, written communication, public interaction, POS and payment systems, data entry, and independent project development.
 
-Current technical and intellectual work includes a 13-project portfolio spanning software architecture, Ada development, web applications, artificial intelligence concepts, usability research, computational astronomy, database-based horse-racing research, multilingual publishing, communications, business projects, digital publishing, and reconstruction of earlier cryptographic work.
+Current technical and intellectual work includes a 14-project portfolio spanning software architecture, Ada development, web applications, artificial intelligence concepts, usability research, computational astronomy, database-based horse-racing research, multilingual publishing, communications, business projects, digital publishing, and reconstruction of earlier cryptographic work.
 
 ## Professional Experience
 
@@ -313,7 +313,7 @@ Current technical and intellectual work includes a 13-project portfolio spanning
 
 ## Current Technical & Independent Projects
 
-The current project inventory contains **13 named projects**. Acme Conscience, Inc. and Sturdy Software are organizational homes/divisions and are not counted separately in the 13-project total.
+The current project inventory contains **14 named projects**. Acme Conscience, Inc. and Sturdy Software are organizational homes/divisions and are not counted separately in the 14-project total.
 
 ### Organizational Framework
 
@@ -447,7 +447,7 @@ Software implementation has not yet begun.
 
 **Related concept: Elephant Book**
 
-Elephant Book is an AI-assisted notebook and information-management concept associated with the broader Elephant preservation philosophy. It is treated as a related Elephant concept rather than as a separate project in the 13-project inventory.
+Elephant Book is an AI-assisted notebook and information-management concept associated with the broader Elephant preservation philosophy. It is treated as a related Elephant concept rather than as a separate project in the 14-project inventory.
 
 The concept combines free-form note taking, handwritten notation, scratchpad use, information organization, task organization, and AI-assisted preservation and retrieval.
 
@@ -541,6 +541,29 @@ Repository/project name: `GitHelm`.
 Current writing/publishing project maintained as a named part of the active project inventory. Additional verified scope, structure, publication goals, and technical or archival details should be added to this master record as they are documented.
 
 Repository/project name: `The-Heather-Papers`.
+
+### 14. AlexanderFerrariMiller.com — Reusable Professional Website Architecture
+
+**Current web-development and publishing project**
+
+Designed and developed AlexanderFerrariMiller.com as a working professional website and as a reusable architecture that can be adapted for other personal and professional sites.
+
+The architecture separates independently testable content pages from thin Jekyll wrappers and reusable includes, allowing content to remain portable while the deployed site retains shared structure and navigation.
+
+The project includes:
+
+- Standalone content pages that can render independently
+- Thin Jekyll wrapper and include architecture
+- Stable bootstrap and landing-page structure
+- Reusable shared navigation
+- Mobile-friendly responsive presentation
+- C-3PO, a reusable document-viewing layer
+- Human-readable source viewing
+- Sharing behavior for published documents
+- Synchronized résumé publishing in HTML, PDF, DOCX, TXT, ODT, and Markdown formats
+- Consistent naming and linking conventions across résumé formats
+
+The project demonstrates practical web design, information architecture, iterative QA, mobile testing, document publishing, and development of reusable patterns suitable for client websites.
 
 ## Performance Experience
 
