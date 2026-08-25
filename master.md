@@ -536,9 +536,11 @@ Repository/project name: `GitHelm`.
 
 ### 13. The Heather Papers
 
-**Current project — detailed description to be expanded**
+**Prose preservation project**
 
-Current writing/publishing project maintained as a named part of the active project inventory. Additional verified scope, structure, publication goals, and technical or archival details should be added to this master record as they are documented.
+The Heather Papers preserves and organizes particularly interesting extended discussions about artificial intelligence, its behavior, implications, and the human experience of working with it.
+
+The project is intentionally prose rather than software documentation, a usability study, or a technical implementation. Its purpose is to preserve the substance of the discussions in a readable form rather than merely retain chat transcripts.
 
 Repository/project name: `The-Heather-Papers`.
 
@@ -660,7 +662,7 @@ The project demonstrates practical web design, information architecture, iterati
 
 **Bachelor's Degree Studies — Mathematics**
 
-- Completed approximately 2 years of undergraduate mathematics study.
+- Completed approximately 1 year of undergraduate mathematics study.
 - Degree not completed.
 - Worked for Ruffalo Cody as a telephone fundraiser while attending UMass Lowell in 2005.
 
